@@ -1,8 +1,7 @@
-============
-Graph Convolutional Networks (GCN) - code adapted to load data from ACM, DBLP, IMDB datasets
+# Graph Convolutional Networks (GCN) - code adapted to load data from ACM, DBLP, IMDB datasets
 
 based on DGl documentation examples
-============
+
 
 - Paper link: [https://arxiv.org/abs/1609.02907](https://arxiv.org/abs/1609.02907)
 - Author's code repo: [https://github.com/tkipf/gcn](https://github.com/tkipf/gcn). Note that the original code is 
